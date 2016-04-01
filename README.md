@@ -13,7 +13,29 @@ List of tango pedagogy ideas and proposals
 ### Tangology101
 - http://www.tangology101.com Clint Rauscher
 
-### 
+### Stephen Brown
+- http://www.tejastango.com
+
+### (Planet Tango) Alberto Paz
+- http://planet-tango.com
+
+### Mark Word (Tango Therapist)
+- http://tango-therapist.blogspot.com
+
+### Veronica Toumanova (tango essays)
+- http://www.verotango.com/
+
+### Marilyn G. Miller (Ed) Tango Lessons (Duke University)
+
+### TangoBreath 
+Eric and Susannah Gebhart
+http://tangobreath.com
+
+### TangoForge
+Vio y Roberto
+http://www.tangoforge.com
+
+### Leandro Palou
 
 
 ## Notations
@@ -89,6 +111,11 @@ http://tangostudent.blogspot.com
 http://www.tangosalon.com.ar
 
 
+### Tomas Howlin
+http://www.tango-learning.com/
+
+
+
 ### idance.net
 https://www.idance.net/
 Alex Krebs
@@ -98,6 +125,17 @@ Alex Krebs
 http://argentine-tango.com/
 Phil Seyer
 http://tangovideos.ning.com/
+
+### Leandro Palou
+http://tangoacademy.co.uk/classes/levels-and-methods/
+
+### Marcelo Gutierrez El Chino
+http://www.pechelo.com/method.html
+
+### Rusty Cline
+http://learn-to-tango.com
+
+### 
 
 
 ## MUSIC, HISTORY, LANGUAGE, CULTURE ETC
@@ -109,6 +147,13 @@ http://www.tangomusicology.com
 ### HISTORICAL
 Tango decoder / time machine
 http://www.tangodecoder.com/
+
+Christine Denniston
+http://www.history-of-tango.com
+
+Academia Nacional del Tango (AR)
+http://www.anacdeltango.org.ar/
+
 
 ### MUSIC PRESERVATION
 Michael Lavocah
@@ -131,10 +176,23 @@ Loreen Leong, Alejandro Suaya, etc
 http://www.talktango.com/
 
 
+## CRITICISM
+
+### Tango Cynic channel
+https://www.youtube.com/user/tangocynic
 
 
 
 
 
+## TANGO UNIVERSITY & HIGHER LEARNING
+
+### CETBA
+http://cetba-uni.blogspot.com
 
 
+### UNA
+http://folklore.iuna.edu.ar/
+
+
+### 
