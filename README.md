@@ -1,4 +1,4 @@
-# tejaspedagogy
+# registry-tango-pedagogy
 List of tango pedagogy ideas and proposals
 
 
